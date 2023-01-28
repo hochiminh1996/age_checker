@@ -153,12 +153,15 @@ div#mensagem{
 
 @media(max-width:670px){
     #principal{
-        width: 100%;
+        width: 100vw;
         height: 100vh;
+        border: 1px solid red;
     }
     #conteudo{
         width: 80%;
         height: fit-content;
+        border: 1px solid #09f;
+
     }
     #imagem{
         width: 50%;

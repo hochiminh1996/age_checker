@@ -154,6 +154,7 @@ div#mensagem{
 @media(max-width:670px){
     #principal{
         width: 100%;
+        height: 100vh;
     }
     #conteudo{
         width: 80%;

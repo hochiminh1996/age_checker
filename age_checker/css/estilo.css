@@ -34,7 +34,7 @@ body{
     display: flex;
     flex-direction: column;
     border: 1px solid rgba(0, 0, 0, 0.1);
-    width: 400px;
+    width: 30vw;
     padding: 15px 15px;
     font-family: var(--font-padrao);
     border-radius: 10px;

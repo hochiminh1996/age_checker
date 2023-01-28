@@ -167,4 +167,9 @@ div#mensagem {
         width: 100vw;
         overflow-x: hidden;
     }
+
+    #conteudo{
+        width: 90%;
+        border: 1px solid blue;
+    }
 }

@@ -152,6 +152,9 @@ div#mensagem{
 }
 
 @media(max-width:670px){
+    #principal{
+        width: 100%;
+    }
     #conteudo{
         width: 80%;
         height: fit-content;

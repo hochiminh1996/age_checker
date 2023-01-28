@@ -169,7 +169,7 @@ div#mensagem {
     }
 
     #conteudo{
-        width: 90%;
+        width: 90vw;
         border: 1px solid blue;
     }
 }

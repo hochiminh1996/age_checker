@@ -163,13 +163,17 @@ div#mensagem {
 @media(max-width:670px) {
     
     #principal{
-        border: 1px solid red;
+        /* border: 1px solid red; */
         width: 100vw;
         overflow-x: hidden;
     }
 
     #conteudo{
-        width: 90vw;
-        border: 1px solid blue;
+        width: 70vw;
+        /* border: 1px solid blue; */
+    }
+
+    #imagem{
+        width: 100%;
     }
 }
